@@ -1,0 +1,27 @@
+.rodape-sociais{
+    align-items: center;
+    background: url('/public/imagens/fundo.png') no-repeat center/80%;
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-around;
+    padding: 48px 0;
+    width: 100%;
+}
+
+.rodape-sociais .redes-sociais img{
+    margin-right: 24px;
+    width: 20px;
+}
+
+.rodape-sociais .redes-sociais img:last-child{
+    margin-right: 0;
+}
+
+.rodape-sociais img{
+    width: 125px;
+}
+
+.rodape-sociais p{
+    color: #FFF;
+    font-size: 13px;
+}
